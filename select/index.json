@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "シルビア",
+  "base_artist": "Janne Da Arc",
+  "createdAt": "2026-03-16T16:03:34.283519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シルビア",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/01_シルビア_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シルビア",
+      "artist": "森山直太朗",
+      "has_synced": false,
+      "path": "select/02_シルビア_森山直太朗.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シルビア",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/03_シルビア_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トラック6 『シルビア』救済のために",
+      "artist": "SweetNightmare",
+      "has_synced": true,
+      "path": "select/04_トラック6_『シルビア』救済のために_SweetNightmare.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シルビア",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/pl_01_シルビア_Janne_Da_Arc.txt"
+    }
+  ]
+}
